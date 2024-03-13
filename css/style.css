@@ -15,7 +15,7 @@
 .caja1{
     justify-content: center;
     background-color: rgb(78, 48, 23);
-
+    height: 100%;
     width: 30%; 
     margin: 5px;
     padding: 10px;
